@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Gabriel Gilbert — aka `Code-By-Gabriel`  
+### Full-Stack Developer | Tech Builder | Code Enthusiast
 
-<!--
-**Code-By-Gabriel/Code-By-Gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm passionate about clean code, modern web apps, and turning ideas into scalable software. Whether it's backend logic or frontend elegance, I'm all about building solutions that work — and look good doing it.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔧 Tech Stack
+- **Languages**: PHP, JavaScript, C#
+- **Frameworks**: Laravel, ASP.NET MVC
+- **Databases**: MySQL
+- **Tools**: VS Code  
+- **Frontend**: Bootstrap, Tailwind, Next.js  
+
+---
+
+### 📬 Get in Touch
+- [Email](mailto:gabriel6gilbert@gmail.com)
